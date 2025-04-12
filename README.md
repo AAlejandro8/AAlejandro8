@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aalejandro8&label=Profile%20views&color=0080ff&style=plastic" alt="aalejandro8" /> </p>
 
-- 🔭 I’m currently working on **Frame Finders**
+- 🔭 I’m currently working on **SLInky**
 
 - 🌱 I’m currently learning **Spring Boot, Flask, SQLite, Postgrese**
 
