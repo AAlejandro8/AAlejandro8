@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aalejandro8&label=Profile%20views&color=0080ff&style=plastic" alt="aalejandro8" /> </p>
 
-- 🔭 I’m currently working on **SLInky**
+- 🔭 I’m currently Learning!
 
-- 🌱 I’m currently learning **Spring Boot, Flask, SQLite, Postgrese**
+- 🌱 I’m currently learning **API development!** using python and later Rust!
 
 - 📫 How to reach me **AlejandroAlbarran98102@gmail.com**
 
-- ⚡ Fun fact **I Rockclimb as a hobby!**
+- ⚡ I Like to rock climb in my free time!
 
 <h3 align="left">Connect with me! https://www.linkedin.com/in/alejandroa98/ </h3>
 <p align="left">
