@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alejandro Albarran</h1>
-<h3 align="center">Senior Computer Science student at Kennesaw State University with a passion for building scalable, efficient software solutions. Skilled in Python, Java, Flask, and Docker, with experience designing data-driven systems and optimizing performance. Proven ability to develop secure, user-friendly applications through Agile methodologies. Seeking opportunities to contribute hands-on expertise to innovative and impactful projects</h3>
+<h3 align="center">Computer Science graduate with a passion for Software development and a strong foundation in Java, Python,
+C#, Flask, and Docker. Experienced in building secure, data-driven web applications with modern stacks and
+Agile practices. Eager to contribute to impactful software teams and grow in a fast-paced, collaborative
+environment.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aalejandro8&label=Profile%20views&color=0080ff&style=plastic" alt="aalejandro8" /> </p>
 
