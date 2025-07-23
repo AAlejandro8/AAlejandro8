@@ -6,13 +6,13 @@ environment.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aalejandro8&label=Profile%20views&color=0080ff&style=plastic" alt="aalejandro8" /> </p>
 
-- 🔭 I’m currently Learning!
+- 🔭 I’m currently working on [Salon-pay-tracker](https://github.com/AAlejandro8/Salon-pay-tracker)!
 
-- 🌱 I’m currently learning **API development!** using python and later Rust!
+- 🌱 I’m currently learning **Backend Development**!
 
 - 📫 How to reach me **AlejandroAlbarran98102@gmail.com**
 
-- ⚡ I Like to rock climb in my free time!
+- ⚡ I Like to rock climb and play guitar in my free time!
 
 <h3 align="left">Connect with me! https://www.linkedin.com/in/alejandroa98/ </h3>
 <p align="left">
